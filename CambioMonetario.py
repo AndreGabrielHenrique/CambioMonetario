@@ -1,7 +1,3 @@
-#1- Continue utilizando a programação em Python, utilizando os
-#comandos “if”, “else” e “elif”, e “input”. Transforme os códigos
-#usados anteriormente, dessa vez utilizando o comando do
-#“input” para podermos digitar as informações.
 separador="-"*90
 print(f"{separador}\nConversor de moedas\n{separador}")
 moeda=input("Qual a moeda a ser convertida?")
